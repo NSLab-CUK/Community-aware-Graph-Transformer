@@ -1,0 +1,2 @@
+INFO:root:Starting on device: cuda:0
+INFO:root:Config: Namespace(dataset='cora', model='Transformer', run_times=1, drop=0.5, custom_masks=True, device='cuda:0', device_2='cuda:0', lr=0.001, epochs=3, dims=64, out_size=64, k_transition=3, num_layers=4, num_heads=2, output_path='outputs/', pretrain_check=0, aug_check=1, sim_check=1, phi_check=1, alfa=0.2, beta=0.95, run_times_fine=300, index_excel=-1, file_name='outputs_excels/cora.xlsx', alpha_1=1, alpha_2=1, alpha_3=1, test_node_degree=0) 
