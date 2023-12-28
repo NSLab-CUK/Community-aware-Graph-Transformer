@@ -86,12 +86,13 @@ The following Options can be passed to exp.py:
 ### How to run
 
 The source code contains both pre-training and fine-tuning processes. 
-The following commands will run the pre-training process and fine-tune the **CGT** on node classification and clustering tasks.
+The following commands will run the pre-training process and fine-tune the **CGT** on Cora dataset for both node classification and clustering tasks.
 
 ```
 
 python exp.py --dataset cora
 
+```
 
 ## 3. Reference
 
