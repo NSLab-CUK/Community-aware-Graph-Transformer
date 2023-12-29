@@ -9,13 +9,13 @@ Community-aware Graph Transformer (**CGT**) is a novel Graph Transformer model t
   <a href="https://github.com/pytorch/pytorch">
     <img src="https://img.shields.io/badge/PyTorch->=1.4-FF6F00?logo=pytorch&style=flat-square" alt="pytorch">
   </a>    
-  <img src="https://custom-icon-badges.demolab.com/github/last-commit/NSLab-CUK/Unified-Graph-Transformer?logo=history&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/languages/code-size/NSLab-CUK/Unified-Graph-Transformer?logo=file-code&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/NSLab-CUK/Unified-Graph-Transformer?color=purple&logo=git-pull-request&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/v/tag/NSLab-CUK/Unified-Graph-Transformer?logo=tag&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/stars/NSLab-CUK/Unified-Graph-Transformer?logo=star&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/issues-raw/NSLab-CUK/Unified-Graph-Transformer?logo=issue&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/license/NSLab-CUK/Unified-Graph-Transformer?logo=law&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/NSLab-CUK/Community-aware-Graph-Transformer?logo=history&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/languages/code-size/NSLab-CUK/Community-aware-Graph-Transformer?logo=file-code&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/NSLab-CUK/Community-aware-Graph-Transformer?color=purple&logo=git-pull-request&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/v/tag/NSLab-CUK/Community-aware-Graph-Transformer?logo=tag&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/NSLab-CUK/Community-aware-Graph-Transformer?logo=star&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/issues-raw/NSLab-CUK/Community-aware-Graph-Transformer?logo=issue&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/license/NSLab-CUK/Community-aware-Graph-Transformer?logo=law&style=flat-square"/>
 </p>
 
 <br>
@@ -119,8 +119,8 @@ Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *CGT* usef
 
 ## 5. Contributors
 
-<a href="https://github.com/NSLab-CUK/Unified-Graph-Transformer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NSLab-CUK/Unified-Graph-Transformer" />
+<a href="https://github.com/NSLab-CUK/Community-aware-Graph-Transformer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NSLab-CUK/Community-aware-Graph-Transformer" />
 </a>
 
 
