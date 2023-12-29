@@ -1,6 +1,6 @@
 # Community-aware Graph Transformer
 
-Community-aware Graph Transformer (**CGT**) is a novel Graph Transformer model that utilizes community structures to address node degree biases in message-passing mechanism and developed by [NS Lab, CUK](https://nslab-cuk.github.io/) based on pure [PyTorch](https://github.com/pytorch/pytorch) backend. The paper is available on [arXiv](https://arxiv.org/abs/2308.09517).
+Community-aware Graph Transformer (**CGT**) is a novel Graph Transformer model that utilizes community structures to address node degree biases in message-passing mechanism and developed by [NS Lab, CUK](https://nslab-cuk.github.io/) based on pure [PyTorch](https://github.com/pytorch/pytorch) backend. The paper is available on [arXiv](https://arxiv.org/abs/2312.16788).
 
 <p align=center>
   <a href="https://www.python.org/downloads/release/python-360/">
@@ -97,12 +97,12 @@ python exp.py --dataset cora
 ## 3. Reference
 
 :page_with_curl: Paper [on arXiv](https://arxiv.org/): 
-* [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.09517) 
+* [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788) 
 
 :chart_with_upwards_trend: Experimental results [on Papers With Code](https://paperswithcode.com/): 
 * [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-UGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/transitivity-preserving-graph-representation)
 
-:pencil: Blog [on Network Science Lab](https://nslab-cuk.github.io/2023/08/17/UGT/): 
+:pencil: Blog [on Network Science Lab](https://nslab-cuk.github.io/2023/12/27/CGT/): 
 * [![Web](https://img.shields.io/badge/NS@CUK-Post-0C2E86?style=flat-square&logo=jekyll&logoColor=FFFFFF)](https://nslab-cuk.github.io/2023/08/17/UGT/)
 
 
@@ -110,11 +110,11 @@ python exp.py --dataset cora
 
 Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *CGT* useful in your work:
 ```
-@misc{hoang2023ugt,
-      title={Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity}, 
+@misc{hoang2023mitigating,
+      title={Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures}, 
       author={Van Thuy Hoang and O-Joun Lee},
       year={2023},
-      eprint={2308.09517},
+      eprint={2312.16788},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
