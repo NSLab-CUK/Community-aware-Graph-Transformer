@@ -97,7 +97,7 @@ python exp.py --dataset cora
 ## 3. Reference
 
 :page_with_curl: Paper [on arXiv](https://arxiv.org/): 
-* [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788)
+* [![arXiv](https://img.shields.io/badge/arXiv-2312.16788-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788)
 
 :chart_with_upwards_trend: Experimental results [on Papers With Code](https://paperswithcode.com/): 
 * [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
