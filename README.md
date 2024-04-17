@@ -102,7 +102,7 @@ python exp.py --dataset cora
 :chart_with_upwards_trend: Experimental results [on Papers With Code](https://paperswithcode.com/): 
 * [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
 
-:pencil: Blog [on Network Science Lab](https://nslab-cuk.github.io/2023/08/17/UGT/): 
+:pencil: Blog post [on Network Science Lab](https://nslab-cuk.github.io/2023/08/17/UGT/): 
 * [![Web](https://img.shields.io/badge/NS@CUK-Post-0C2E86?style=flat-square&logo=jekyll&logoColor=FFFFFF)](https://nslab-cuk.github.io/2023/12/27/CGT/)
 
 
