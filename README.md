@@ -120,6 +120,8 @@ Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *CGT* usef
 }
 ```
 
+Please take a look at our structure-preserving graph transformer model, [**UGT**](https://github.com/NSLab-CUK/Unified-Graph-Transformer), which has as high expessive power as 3-WL, together. 
+
 ## 5. Contributors
 
 <a href="https://github.com/NSLab-CUK/Community-aware-Graph-Transformer/graphs/contributors">
