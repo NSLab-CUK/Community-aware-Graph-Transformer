@@ -96,11 +96,16 @@ python exp.py --dataset cora
 
 ## 3. Reference
 
+:page_with_curl: Paper [on IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902): 
+* [![DOI](http://img.shields.io/:DOI-10.1109/TNSE.2025.3563697-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/TNSE.2025.3563697)
+
 :page_with_curl: Paper [on arXiv](https://arxiv.org/): 
-* [![arXiv](https://img.shields.io/badge/arXiv-2312.16788-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788)
+* [![arXiv](https://img.shields.io/badge/arXiv-2504.15075-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2504.15075) 
+[![arXiv](https://img.shields.io/badge/arXiv--Previous-2312.16788-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788)
 
 :chart_with_upwards_trend: Experimental results [on Papers With Code](https://paperswithcode.com/): 
-* [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
+* [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-bias-in-graph) 
+[![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code--Previous-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
 
 :pencil: Blog post [on Network Science Lab](https://nslab-cuk.github.io/2023/08/17/UGT/): 
 * [![Web](https://img.shields.io/badge/NS@CUK-Post-0C2E86?style=flat-square&logo=jekyll&logoColor=FFFFFF)](https://nslab-cuk.github.io/2023/12/27/CGT/)
@@ -108,8 +113,27 @@ python exp.py --dataset cora
 
 ## 4. Citing CGT
 
-Please cite our [paper](https://arxiv.org/abs/2308.09517) if you find *CGT* useful in your work:
+Please cite our [paper](https://arxiv.org/abs/2504.15075) if you find *CGT* useful in your work:
 ```
+@Article{hoang2025mitigating_TNSE,
+      author  = {Van Thuy Hoang and Hyeon-Ju Jeon and O-Joun Lee},
+      journal = {IEEE Transactions on Network Science and Engineering},
+      title   = {Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention},
+      year    = {2025},
+      issn    = {2327-4697},
+      note    = {(To Appear)},
+      doi     = {10.1109/TNSE.2025.3563697},
+}
+
+@misc{hoang2025mitigating,
+      title={Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention}, 
+      author={Van Thuy Hoang and Hyeon-Ju Jeon and O-Joun Lee},
+      year={2025},
+      eprint={2504.15075},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+
 @misc{hoang2023mitigating,
       title={Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures}, 
       author={Van Thuy Hoang and O-Joun Lee},
