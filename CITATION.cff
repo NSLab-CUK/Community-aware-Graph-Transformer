@@ -1,0 +1,26 @@
+cff-version: 1.0.0
+date-released: 2025-04
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hoang"
+  given-names: "Van Thuy"
+- family-names: "Jeon"
+  given-names: "Hyeon-Ju"
+- family-names: "Lee"
+  given-names: "O-Joun"
+title: "Mitigating Degree Bias in Graph Representation Learning With Learnable Structural Augmentation and Structural Self-Attention"
+url: "https://ieeexplore.ieee.org/document/10974679"
+preferred-citation:
+  type: article
+  journal: "IEEE Transactions on Network Science and Engineering"
+  authors:
+    - family-names: "Hoang"
+      given-names: "Van Thuy"
+    - family-names: "Jeon"
+      given-names: "Hyeon-Ju"
+    - family-names: "Lee"
+      given-names: "O-Joun"
+  title: "Mitigating Degree Bias in Graph Representation Learning With Learnable Structural Augmentation and Structural Self-Attention"
+  url: "https://ieeexplore.ieee.org/document/10974679"
+  year: 2025
+  publisher: "IEEE"
