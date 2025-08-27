@@ -113,7 +113,7 @@ python exp.py --dataset cora
 
 ## 4. Citing CGT
 
-Please cite our [paper](https://arxiv.org/abs/2504.15075) if you find *CGT* useful in your work:
+Please cite our [paper](https://ieeexplore.ieee.org/document/10974679) if you find *CGT* useful in your work:
 ```
 @Article{hoang2025mitigating_TNSE,
       author  = {Van Thuy Hoang and Hyeon-Ju Jeon and O-Joun Lee},
@@ -121,7 +121,9 @@ Please cite our [paper](https://arxiv.org/abs/2504.15075) if you find *CGT* usef
       title   = {Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention},
       year    = {2025},
       issn    = {2327-4697},
-      note    = {(To Appear)},
+      volume  = {12},
+      number  = {5},
+      pages   = {3656--3670},
       doi     = {10.1109/TNSE.2025.3563697},
 }
 
